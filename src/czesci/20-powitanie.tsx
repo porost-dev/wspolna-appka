@@ -6,3 +6,5 @@ export default function Powitanie() {
     </section>
   )
 }
+
+export const zepsute = <div>
