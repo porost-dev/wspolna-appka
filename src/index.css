@@ -2,24 +2,24 @@
 @import "tw-animate-css";
 
 :root {
-  --background: #f3f0ea;
-  --foreground: #2a2622;
-  --card: #fbf9f5;
-  --card-foreground: #2a2622;
-  --popover: #fbf9f5;
-  --popover-foreground: #2a2622;
-  --primary: #2a2622;
-  --primary-foreground: #fbf9f5;
-  --secondary: #ece7df;
-  --secondary-foreground: #2a2622;
-  --muted: #ece7df;
-  --muted-foreground: #6f685f;
-  --accent: #f1e3d9;
-  --accent-foreground: #2a2622;
+  --background: #eef5ee;
+  --foreground: #1b2a1e;
+  --card: #f8fcf8;
+  --card-foreground: #1b2a1e;
+  --popover: #f8fcf8;
+  --popover-foreground: #1b2a1e;
+  --primary: #2e7d32;
+  --primary-foreground: #f8fcf8;
+  --secondary: #dcebdc;
+  --secondary-foreground: #1b2a1e;
+  --muted: #dcebdc;
+  --muted-foreground: #5a6e5c;
+  --accent: #cfe8d0;
+  --accent-foreground: #1b2a1e;
   --destructive: #b3261e;
-  --border: #ddd6ca;
-  --input: #ddd6ca;
-  --ring: #a8502b;
+  --border: #c9dcc9;
+  --input: #c9dcc9;
+  --ring: #43a047;
   --radius: 0.375rem;
 }
 
