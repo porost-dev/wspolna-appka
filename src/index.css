@@ -3,17 +3,17 @@
 
 :root {
   --background: #eef5ee;
-  --foreground: #1b2a1e;
+  --foreground: #be185d;
   --card: #f8fcf8;
-  --card-foreground: #1b2a1e;
+  --card-foreground: #be185d;
   --popover: #f8fcf8;
-  --popover-foreground: #1b2a1e;
+  --popover-foreground: #be185d;
   --primary: #2e7d32;
-  --primary-foreground: #f8fcf8;
+  --primary-foreground: #fce7f3;
   --secondary: #dcebdc;
-  --secondary-foreground: #1b2a1e;
+  --secondary-foreground: #be185d;
   --muted: #dcebdc;
-  --muted-foreground: #5a6e5c;
+  --muted-foreground: #db2777;
   --accent: #fbcfe8;
   --accent-foreground: #831843;
   --destructive: #b3261e;
